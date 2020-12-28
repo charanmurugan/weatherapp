@@ -105,7 +105,7 @@ body{
     left: 140px;
 }
   .user-detail .fa-building{
-      left: -10px;
+      left: -20px;
       max-width: 100px;
       padding: 15px;
       position: absolute;
@@ -113,7 +113,7 @@ body{
       
   }
   .user-detail .city-input{
-      left: 56px;
+      left: 60px;
       max-width: 150px;
       padding: 15.8px;
       position: absolute;
@@ -123,7 +123,7 @@ body{
       min-width: 150px;
       left: 35px;
       position: absolute;
-      top:250px;
+      top:200px;
   }
   .copy_right{
       position: absolute;
