@@ -116,7 +116,8 @@ img{
   }
   img{
       position: absolute;
-      left: 150px;
+      left: 170px;
+      top: 100px;
   }
   .description{
       position: absolute;
