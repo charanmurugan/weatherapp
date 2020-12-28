@@ -87,7 +87,7 @@ img{
     }
     .main_div{
         height: 400px;
-        width: 240px;
+        width: 300px;
         left: 20px;
         position: absolute;
         top: 75px;
@@ -120,21 +120,21 @@ img{
   }
   .description{
       position: absolute;
-      left: 65px;
+      left: 50px;
       top:120px;
   }
   .temp_deatil{
       position: absolute;
-      left: 65px;
+      left: 50px;
   }
   .pressure_detail{
       position: absolute;
-      left: 95px;
+      left: 50px;
       top: 250px;
   }
   .wind-speed_detail{
        position: absolute;
-       left: 0px;
+       left: 50px;
        top: 285px;
   }
   .copy_right{
