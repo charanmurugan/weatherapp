@@ -1,0 +1,135 @@
+body{
+    background-color:skyblue;
+}
+.main_div{
+    background-color: white;
+    position: absolute;
+    left: 260px;
+    top:100px; 
+    height: 288px;
+    width:520px ;
+}
+.heading{
+    background-color: black; 
+    color: white;
+    height: 30px;
+    width: 260px;
+    padding: 5px;
+    position: absolute;
+    left: 130px;
+    top:-20px ;
+}
+.heading_1{
+    position: absolute;
+    left: 75px;
+    top: -7px;
+}
+.fa-cloud{
+    color: white;
+}
+.first_could{
+    position: absolute;
+    left: -50px;
+}
+.second_cloud{
+    position: absolute;
+    right: -50px;
+}
+.user-detail .fa-building{
+    border: 1px solid #333;
+    border-right: none;
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    position: absolute;
+    top: 100px;
+    right: 330px;
+}
+.user-detail .city-input{
+    border: 1px solid #333;
+    border-left: none;
+    padding: 13px;
+    min-width: 60px;
+    font-size: 1rem;
+    margin-left: 2rem;
+    position: absolute;
+    top: 100px;
+    right: 110px
+}
+.user-detail .final-button{
+    padding: 5px;
+    background: dodgerblue;
+    color: white;
+    width: 35%;
+    text-align: center;
+    font-size: 1rem;
+    margin-left: 2rem;
+    position: absolute;
+    top: 200px;
+    right: 160px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.copy_right{
+    position: absolute;
+    bottom: -100px;
+    left: 200px;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .main_div{
+      height: 200px;
+      width: 240px;
+      left: 30px;
+      position: absolute;
+      top: 150px;
+  }
+  .heading{
+      left: 15px;
+      width: 200px;
+      padding: 0px;
+  }
+  .heading_1{
+      left:40px;
+  }
+  .first_could{
+    left: -30px;
+}
+.second_cloud{
+    left: 140px;
+}
+  .user-detail .fa-building{
+      left: -10px;
+      max-width: 130px;
+      padding: 3px;
+      position: absolute;
+      top: 50px;
+      
+  }
+  .user-detail .city-input{
+      left: 46px;
+      max-width: 130px;
+      padding: 5.8px;
+      position: absolute;
+      top: 50px;
+  }
+  .user-detail .final-button{
+      min-width: 150px;
+      left: 15px;
+      position: absolute;
+      top: 120px;
+  }
+  .copy_right{
+      position: absolute;
+      bottom: -150px;
+      left: 50px;
+  }
+  
+  
+}

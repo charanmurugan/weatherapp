@@ -1,0 +1,82 @@
+body{
+    background-color:skyblue;
+}
+.main_div{
+    background-color: white;
+    position: absolute;
+    left: 260px;
+    top:100px; 
+    height: 288px;
+    width:520px ;
+}
+.heading{
+    background-color: black; 
+    color: white;
+    height: 30px;
+    width: 260px;
+    padding: 5px;
+    position: absolute;
+    left: 130px;
+    top:-20px ;
+}
+.heading_1{
+    position: absolute;
+    left: 75px;
+    top: -7px;
+}
+.fa-cloud{
+    color: white;
+}
+.first_could{
+    position: absolute;
+    left: -50px;
+}
+.second_cloud{
+    position: absolute;
+    right: -50px;
+}
+.message-detail{
+    position: absolute;
+    left: 150px;
+    top: 100px;
+}
+.copy_right{
+    position: absolute;
+    bottom: -100px;
+    left: 200px;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .main_div{
+      height: 200px;
+      width: 240px;
+      left: 30px;
+      position: absolute;
+      top: 150px;
+  }
+  .heading{
+      left: 15px;
+      width: 200px;
+      padding: 0px;
+  }
+  .heading_1{
+      left:40px;
+  }
+  .first_could{
+    left: -30px;
+}
+.second_cloud{
+    left: 140px;
+}
+.message-detail{
+    left: 25px;
+    top: 50px;
+}
+.copy_right{
+    position: absolute;
+    bottom: -150px;
+    left: 50px;
+}
+}
