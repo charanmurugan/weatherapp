@@ -50,11 +50,11 @@ body{
     background-color: lightblue;
   }
   .main_div{
-      height: 200px;
-      width: 240px;
-      left: 30px;
-      position: absolute;
-      top: 150px;
+    height: 200px;
+    width: 240px;
+    left: 30px;
+    position: absolute;
+    top: 150px;
   }
   .heading{
       left: 15px;
@@ -76,7 +76,7 @@ body{
 }
 .copy_right{
     position: absolute;
-    bottom: -150px;
+    bottom: 0px;
     left: 50px;
 }
 }

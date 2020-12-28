@@ -4,8 +4,8 @@ body{
 .main_div{
     background-color: white;
     position: absolute;
-    left: 260px;
-    top:100px; 
+    left: 360px;
+    top:250px; 
     height: 288px;
     width:520px ;
 }
@@ -127,7 +127,7 @@ body{
   }
   .copy_right{
       position: absolute;
-      bottom: -150px;
+      bottom: 0px;
       left: 50px;
   }
   

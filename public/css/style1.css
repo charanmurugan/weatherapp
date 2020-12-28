@@ -86,11 +86,11 @@ img{
       background-color: lightblue;
     }
     .main_div{
-        height: 400px;
-        width: 240px;
-        left: 20px;
-        position: absolute;
-        top: 75px;
+        height: 200px;
+      width: 240px;
+      left: 30px;
+      position: absolute;
+      top: 150px;
     }
     .heading{
         left: 15px;
@@ -139,7 +139,7 @@ img{
   }
   .copy_right{
     position: absolute;
-    bottom: -50px;
+    bottom: 0px;
     left: 50px;
 }
 }
