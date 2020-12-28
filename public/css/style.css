@@ -91,7 +91,7 @@ body{
       top: 150px;
   }
   .heading{
-      left: 45px;
+      left: 50px;
       width: 200px;
       padding: 0px;
   }
@@ -128,7 +128,7 @@ body{
   .copy_right{
       position: absolute;
       bottom: -250px;
-      left: 50px;
+      left: 75px;
   }
   
   
