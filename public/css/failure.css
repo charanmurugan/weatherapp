@@ -4,7 +4,7 @@ body{
 .main_div{
     background-color: white;
     position: absolute;
-    left: 260px;
+    left: 300px;
     top:100px; 
     height: 288px;
     width:520px ;
@@ -76,7 +76,7 @@ body{
 }
 .copy_right{
     position: absolute;
-    bottom: 0px;
+    bottom: -200px;
     left: 50px;
 }
 }
