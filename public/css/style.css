@@ -84,14 +84,14 @@ body{
     background-color: lightblue;
   }
   .main_div{
-      height: 200px;
+      height: 300px;
       width: 300px;
       left: 30px;
       position: absolute;
       top: 150px;
   }
   .heading{
-      left: 15px;
+      left: 35px;
       width: 200px;
       padding: 0px;
   }
@@ -127,7 +127,7 @@ body{
   }
   .copy_right{
       position: absolute;
-      bottom: -200px;
+      bottom: -300px;
       left: 50px;
   }
   
