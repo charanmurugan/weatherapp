@@ -4,8 +4,8 @@ body{
 .main_div{
     background-color: white;
     position: absolute;
-    left: 260px;
-    top:100px; 
+    left: 300px;
+    top:150px; 
     height: 288px;
     width:520px ;
 }
@@ -86,11 +86,11 @@ img{
       background-color: lightblue;
     }
     .main_div{
-        height: 200px;
-      width: 240px;
-      left: 30px;
-      position: absolute;
-      top: 150px;
+        height: 400px;
+        width: 240px;
+        left: 20px;
+        position: absolute;
+        top: 75px;
     }
     .heading{
         left: 15px;
