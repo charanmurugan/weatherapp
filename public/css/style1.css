@@ -93,7 +93,7 @@ img{
         top: 75px;
     }
     .heading{
-        left: 15px;
+        left: 30px;
         width: 200px;
         padding: 0px;
     }
@@ -130,12 +130,12 @@ img{
   .pressure_detail{
       position: absolute;
       left: 50px;
-      top: 250px;
+      top: 225px;
   }
   .wind-speed_detail{
        position: absolute;
        left: 50px;
-       top: 285px;
+       top: 265px;
   }
   .copy_right{
     position: absolute;
